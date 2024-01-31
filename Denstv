@@ -1,0 +1,558 @@
+#EXTM3U
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANSV
+https://filmovie.github.io/by/transtv.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
+https://filmovie.github.io/by/trans7.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DENS TV",RCTI
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MOJI SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MOJI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVONE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVONE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",METRO TV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",METRO TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CELESTIAL MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CELESTIAL MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ENTERTAINMENT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ENTERTAINMENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NHK WORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NHK WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ACTION SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ACTION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",K+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",K+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BNTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BNTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MAGNA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MAGNA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KARTUN SIS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KARTUN SIS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCTV 4 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCTV 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",PHOENIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",PHOENIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KOMPAS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KOMPAS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TBN ASIA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TBN ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SPORT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCM SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCM HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Thrill SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Thrill HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MEKKAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MEKKAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADINAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADINAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTP SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTP HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ALJAZEERA ARAB SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ALJAZEERA ARAB HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV5 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CGTN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CGTN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV 5 Style SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV 5 Style HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CINEMAWORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CINEMAWORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY KIDZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY CINEMA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS PLAY HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY CINEMA ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY FAMILY CHANNEL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DAAI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS SHOWBIZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS FOOD CHANNEL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS LEARNING HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS LIVE EVENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Commerce HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Korean HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS life Style HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ELSHINTA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAKTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CREMA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",STINGRAY HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Deluxe Lounge HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Dance TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Motorvision HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MotoR Racing HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HORIZON SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DW-TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",W-SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",France 24 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FREEDOM HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRT WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI World (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w472172163_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1325163276_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DETIK TV
+https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2023/11/19/49d7019754274b5a9eb6536d3e79bdb8.smil/chunklist_w784631946_b1628001.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",LOTUS
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO
+http://208.115.225.174:14136
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO 2
+http://208.115.225.174:14140
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Family
+http://208.115.225.174:14144
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Signature
+http://208.115.225.174:14160
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Hits
+https://astrompd.kalinggap3workersdev.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primar
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Plus
+http://208.115.225.174:14152
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Extrem
+http://208.115.225.174:14165
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Tv
+http://208.115.225.174:14132
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Galaxy
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264773
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Galaxy Premium
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264774
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mce
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",XINGKONG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV9 NUSANTARA
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADU TV NUSANTARA
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAWA POS TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1534412918.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Ind
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Tv
+http://208.115.225.174:14132
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Paramounth
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mbc
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WARNER TV
+https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
