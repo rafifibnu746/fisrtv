@@ -1,0 +1,193 @@
+EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ANTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="FIRSTMEDIA",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BERITASATU DUNIA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",METROTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",IDX CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+#EXTINF:0 tvg-id="ext" grup-title="FIRSTMEDIA",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+#EXTINF:0 tvg-id="ext" grup-title="FIRSTMEDIA",TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JARINGAN JAWA BARAT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BALAIKOTA BANDUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",Prajurit PERTAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GAYA HIDUP PERTAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="FIRSTMEDIA",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:0 tvg-id="Paramount.es" group-title="FIRSTMEDIA",JARINGAN PARAMOUNT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",AKSI ROCK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",HIBURAN ROCK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="FIRSTMEDIA",HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="FIRSTMEDIA",SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:0 tvg-id="Kix.uk" group-title="FIRSTMEDIA",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="FIRSTMEDIA",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:0 tvg-id="ONE.ca" group-title="FIRSTMEDIA",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="FIRSTMEDIA",EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",DOKUMENTER CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="FIRSTMEDIA",SALURAN PENEMUAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="FIRSTMEDIA",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",LOVENATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="FIRSTMEDIA",HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",INVESTIGASI KEJAHATAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TECHSTORM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TRAKKER GLOBAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="FIRSTMEDIA",LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+#EXTINF:0 tvg-id="hgtv" group-title="FIRSTMEDIA",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="FIRSTMEDIA",TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:0 tvg-id="food-network-rus" group-title="FIRSTMEDIA",JARINGAN MAKANAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:0 tvg-id="fashion" group-title="FIRSTMEDIA",FASHIONTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="FIRSTMEDIA",DAVINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+#EXTINF:0 tvg-id="Animax.de" group-title="FIRSTMEDIA",ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+#EXTINF:0 tvg-id="boomerang" grup-title="FIRSTMEDIA",BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="FIRSTMEDIA",JARINGAN KARTUN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="FIRSTMEDIA",NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" grup-title="FIRSTMEDIA",NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:0 tvg-id="mtv-rocks" grup-title="FIRSTMEDIA",MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",MTV STAGE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",NATURESCAPE IKAN IKAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+#EXTINF:0 tvg-id="StingrayDJAZZ.de" group-title="FIRSTMEDIA",STINGRAY DJAZZ
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CH3888
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",FILM ANGKASA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",XINGKONG TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TV CINA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
+#EXTINF:0 tvg-id="CCTV4.nws" group-title="FIRSTMEDIA",CCTV 4
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CINA 215
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CINA 216
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVBS CINA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CINA 218
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CINA 219
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BINTANG CINA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CINA 221
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8
+#EXTINF:0 tvg-id="nhk-world" group-title="FIRSTMEDIA",NHK WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="FIRSTMEDIA",CNN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ALJEZERA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="FIRSTMEDIA",DW
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="FIRSTMEDIA",ABC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+#EXTINF:0 tvg-id="arirang-en" group-title="FIRSTMEDIA",ARIRANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
+#EXTINF:0 tvg-id="RaiItalia.cl" group-title="FIRSTMEDIA",RAI ITALIA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",FRANCE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",PREMIERSPORT LIVE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+#EXTINF:0 tvg-id="euro" group-title="FIRSTMEDIA",BERITA EURO
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",STINGRAI NOW4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="FIRSTMEDIA",DMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="FIRSTMEDIA",CARTOONITO
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="FIRSTMEDIA",EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
