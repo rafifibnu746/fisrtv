@@ -1,0 +1,1359 @@
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="FIRSTMEDIA", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="FIRSTMEDIA", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS.png" group-title="FIRSTMEDIA", TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS%207.png" group-title="FIRSTMEDIA", TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ANTV.png" group-title="FIRSTMEDIA", ANTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA", KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/METRO.png" group-title="FIRSTMEDIA", METROTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/BTV.png" group-title="FIRSTMEDIA", BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/BERITASATU.png" group-title="FIRSTMEDIA", BERITASATU DUNIA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/JAKARTAG.png" group-title="FIRSTMEDIA", JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/IDX.png" group-title="FIRSTMEDIA", IDX CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/GARUDAtv.png" group-title="FIRSTMEDIA", GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DAAI.png" group-title="FIRSTMEDIA", DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/JAKTV.png" group-title="FIRSTMEDIA", JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/JTV.png" group-title="FIRSTMEDIA", JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://garuda.tv/wp-content/uploads/2023/05/Logo-Final-GarudaTV-Retina-2023.png" group-title="FIRSTMEDIA", GARUDA TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title= "PERTAMAEDIA", GAYA HIDUP FM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="FIRSTMEDIA", CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png" group-title="FIRSTMEDIA", CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRzMDesNHQet8NAA_509dT1ZIncmrUTkicwEi19d2peVyCpn41U_ftluvv4zMJhksnzU&usqp=CAU" group-title="FIRSTMEDIA", CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuQIpOCDJ2430giqP61GIRCN4RmUZHo_ftodl3H7m_aHnJUpmmCGatEeNeWyxlGERKQ&usqp=CAU" group-title="FIRSTMEDIA", CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="FIRSTMEDIA", CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://seleksi.kominfo.go.id/storage/46664/logo-tvri-media-pemersatu-bangsa.jpg" group-title="FIRSTMEDIA", TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" grup-judul="FIRSTMEDIA", AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/55/793/png-transparent-paramount-network-television-show-roku-television-channel-others-television-blue- logo.png" group-title="FIRSTMEDIA", JARINGAN PARAMOUNT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/280px-Rock_Action.png" group-title="FIRSTMEDIA", AKSI ROCK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png" group-title="FIRSTMEDIA", HIBURAN ROCK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="FIRSTMEDIA", FILM HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="FIRSTMEDIA", HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2560px-KIX_logo.svg.png" group-title="FIRSTMEDIA", KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="FIRSTMEDIA", TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201701111724468376495_20170111172626_01.jpg" group-title="FIRSTMEDIA", TVN MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" grup-title="FIRSTMEDIA", KBS WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png" group-title="FIRSTMEDIA", SONY ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="FIRSTMEDIA", PERMATA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Zee_Bioskop.jpg" group-title="FIRSTMEDIA", ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png" group-title="FIRSTMEDIA", SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="FIRSTMEDIA", SONY ENTERTAIMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoicgn393oH8BDOqSZg_BfoNCqOrnRq1Uj04AjiNocYrxYXUrpn4oPDl8jjBItuT73d1c&usqp=CAU" group-title="FIRSTMEDIA", XINGKONG TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/AHTV.png" group-title="FIRSTMEDIA", ANHUI TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="FIRSTMEDIA", CHINASTART
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="FIRSTMEDIA", SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_308.png" group-title="FIRSTMEDIA", SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909310533193_image-header_pIt_1686238719000&quality=70" group-title="FIRSTMEDIA", EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="FIRSTMEDIA", OLAHRAGA PREMIER
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="FIRSTMEDIA", ANIPLUS
+http://rr.dens.tv/h/h114/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="FIRSTMEDIA", ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="FIRSTMEDIA", BUMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HOREE.png" group-title="FIRSTMEDIA", HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80C4ymGhiSixfnABmDMjsOiY7VVqLXz5c-A&usqp=CAU" group-title="FIRSTMEDIA", JARINGAN KARTUN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="FIRSTMEDIA", NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/640px-Nick_Jr._Channel_logo.svg.png" group-title= "MEDIA PERTAMA", NICK JR
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title= "MEDIA PERTAMA", KARTUNITO
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="FIRSTMEDIA", PEKERJAAN IMPIAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/800px-CGTN_Documentary.svg.png" group-title="FIRSTMEDIA", DOKUMENTER CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2010/01/Waterstudio-news-discoverychannel1.png" group-title="FIRSTMEDIA", SALURAN PENEMUAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="FIRSTMEDIA", DUNIA BINATANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.varnalan.com/wp-content/uploads/2021/04/LoveNature.jpg" group-title="FIRSTMEDIA", LOVENATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/240px-History_Logo.svg.png" group-title="FIRSTMEDIA", SEJARAH
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJY4py516AUVjoR5es8NDJMCS6ikaPH_A23w&usqp=CAU" group-title="FIRSTMEDIA", PEKERJAAN KOTOR
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7e/CI_Crime_Investigation_Network_Logo.png" group-title="FIRSTMEDIA", INVESTIGASI KEJAHATAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="FIRSTMEDIA", TECHSTORM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="FIRSTMEDIA ", TREKKER GLOBAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FIRSTMEDIA", SEUMUR HIDUP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="FIRSTMEDIA", HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TLC_logo_%282023%29.svg" group-title="FIRSTMEDIA", TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="FIRSTMEDIA", AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/unsized/2013/1/4/0/fnd_FN-New-Logo_s4x3_lead.jpg" grup- title="PERTAMAEDIA", JARINGAN MAKANAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.marschannels.com/files/channel_settings/web/img/1648375713354.png" group-title="FIRSTMEDIA", FASHIONTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/2560px-DMAX_BLACK.svg.png" group-title="FIRSTMEDIA", DMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png" group-title="FIRSTMEDIA", DA VINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TV9.png" group-title="FIRSTMEDIA", TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
+EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:and9gcrtnv0zcjju36nb1yb8dzmlwg9wnpcxvlqnikfcpss-8hg1i9min = smpcxvlqnikfcpss-8hg1i9min IA ", TV8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnedUwk7oRWwYfImQq1jtcVEgIqN0eWEUWSZQQsUi-4hdQBars4mGblSM5YXPLpEcmp8&usqp=CAU" group-title="FIRSTMEDIA", TV5 MONDE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/WestJ.png" group-title="FIRSTMEDIA", JARINGAN JAWA BARAT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20SD-FirstMedia-Chl-33.jpg" group-title= "PERTAMAEDIA", SALURAN BALAIKOTA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/8-LOCAL/Balai%20Kota%20Bandung%20SD-FirstMedia-Chl-34.jpg" grup- title="FIRSTMEDIA", BALAIKOTA BANDUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/2-E-SPORT/Frst%20Warriors%20HD-FirstMedia-Chl-999.jpg" group-title= "MEDIA PERTAMA", WARRIOR PERTAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPQrZduEW42ln9mDwHQ7O_1STZ0_cOPkeuTd8ww9AJjhhYf-4w21hMBU9_SY105iC2yU&usqp=CAU" group-title="FIRSTMEDIA", TAHAP MTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrqU06igSDhyxD7RMKa4iU9WHjGikEp-hXatQsML6B8X1k2sspPXJV9nw7GLLmIZ7hxo&usqp=CAU" group-title="FIRSTMEDIA", ALAM IKAN IKAN RUANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://djazz.stingray.com/static/site/djazz/site/MetaImage.png" group-title="FIRSTMEDIA", STINGRAY DJAZZ
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/Praise%20SD-FirstMedia-Chl-89.jpg" group-title="FIRSTMEDIA", PRA-SE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="FIRSTMEDIA", MTV LANGSUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkALF-4BQMfDVyoqx0veoAHDWGziFel-Fhww&usqp=CAU" group-title="FIRSTMEDIA", MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="FIRSTMEDIA", NHK WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="FIRSTMEDIA", CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="FIRSTMEDIA", CNN INTERNASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="FIRSTMEDIA", DW
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="FIRSTMEDIA", PERANCIS24
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="FIRSTMEDIA", CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="FIRSTMEDIA ", BERITA EURO
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://reformed21.tv/images/logo.png" group-title="FIRSTMEDIA", REFORMED 21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/christianity/images/9/95/ShineTV.png" group-title="FIRSTMEDIA", SHINE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1QHF47XNnMVlQ6H7d5uxeBE5QU0x971LkCw3FduK1n79HxS1RKRjOH0ku3xLYA7P_gs&usqp=CAU" group-title="FIRSTMEDIA", CAHAYA M USIK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Stingray_FestivalHD_RGB.png" group-title="FIRSTMEDIA", FESTIVAL IKAN IKAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Stingray_Now_4K.png" group-title="FIRSTMEDIA", STINGRAY SEKARANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqizBAD.png" group-title="FIRSTMEDIA", GUNAKAN PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" group-title="FIRSTMEDIA", NUSANTARA TV
+#https://v6.siar.us/nusantaratv/live/chunks.m3u8
+#https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drcIzRz.png" group-title="FIRSTMEDIA", GUNAKAN PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizlifestyle.png" group-title="FIRSTMEDIA", Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVB hcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg" group-title="FIRSTMEDIA", DAMPAK! Gulat
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" group-title="FIRSTMEDIA", DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="FIRSTMEDIA",Gunakan Prime MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="FIRSTMEDIA",RTV MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="FIRSTMEDIA",Metro TV MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="FIRSTMEDIA",Kompas TV MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="FIRSTMEDIA",Magna Channel MAX
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsi2KG8tzB5mY6fTNUYFk8JBDruu1nGo1fbA&usqp=CAU" group-title="FIRSTMEDIA", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 1
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799045_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727711_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 6
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 7
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 8
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 9
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 10
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 11
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 12
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 13
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 14
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 15
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 16
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 17
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 18
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 19
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 20
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 21
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 22
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇮🇧LIVE PREMIER LIGA🇮🇧#", LIVE 23
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
+
+
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LANGSUNG 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=484729_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LANGSUNG 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585228_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LANGSUNG 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=567478_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LANGSUNG 4
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=80538_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LANGSUNG 5
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649228_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" grup-title="#🇪🇪LIVE LA LIGA🇪🇪#", LANGSUNG 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652924_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" grup-title="#🇪🇪LIVE LA LIGA🇪🇪#", LANGSUNG 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6382_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" grup-title="#🇪🇪LIVE LA LIGA🇪🇪#", LANGSUNG 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=725456_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" grup-title="#🇪🇪LIVE LA LIGA🇪🇪#", LANGSUNG 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=37_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" grup-title="#🇪🇪LIVE LA LIGA🇪🇪#", LANGSUNG 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6595_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA PRANCIS🇫🇷#", LANGSUNG 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501436_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA PRANCIS🇫🇷#", LANGSUNG 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5479_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA PRANCIS🇫🇷#", LANGSUNG 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=220767_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA PRANCIS🇫🇷#", LANGSUNG 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520189_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA PRANCIS🇫🇷#", LANGSUNG 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564979_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪# ", LANGSUNG 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564959_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪# ", LANGSUNG 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=657114_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪# ", LANGSUNG 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=435_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪# ", LANGSUNG 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=436_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪# ", LANGSUNG 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501441_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 1
+http://myteve.online:8080/Abraham/6b3ca724a0/197964
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 3
+http://iptvtree.net:8080/c4596f70/c3848d92/197964
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 4
+http://xtv.ooo:8080/6535678/8655688/350922
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCkSdgdd7ZaJ82Fhgt5qZ3Otnn9NtocomGg&usqp=CAU" group-title="HBO INDO", CINEMAX 5
+http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197964.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO" , HBO 1
+http://myteve.online:8080/Abraham/6b3ca724a0/197972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO" , HBO2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO" , HBO3
+http://iptvtree.net:8080/c4596f70/c3848d92/197972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO" , HBO 4
+http://xtv.ooo:8080/6535678/8655688/350955
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO INDO" , HBO5
+http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197972.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO" , KELUARGA HBO 1
+http://myteve.online:8080/Abraham/6b3ca724a0/197055
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO" , KELUARGA HBO 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO" , KELUARGA HBO 3
+http://iptvtree.net:8080/c4596f70/c3848d92/197055
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO" , KELUARGA HBO 4
+http://xtv.ooo:8080/6535678/8655688/350956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO" , KELUARGA HBO 5
+http://iptvtree.net:8080/live/34223073/2cdb1b8d70/197055.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 1
+http://myteve.online:8080/Abraham/6b3ca724a0/196480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 3
+http://iptvtree.net:8080/c4596f70/c3848d92/196480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 4
+http://xtv.ooo:8080/6535678/8655688/350957
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO INDO", HBO HITS 5
+http://iptvtree.net:8080/live/34223073/2cdb1b8d70/196480.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 1
+http://myteve.online:8080/Abraham/6b3ca724a0/221948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 3
+http://iptvtree.net:8080/c4596f70/c3848d92/221948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 4
+http://xtv.ooo:8080/6535678/8655688/350958
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO INDO", HBO SIGNATURE 5
+http://iptvtree.net:8080/live/34223073/2cdb1b8d70/221948.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0Z UhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb 21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/ 611-cinemax.png" group-title="HBO INDO", Cinemax - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0Z UhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ 9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png- clipart-hbo-sekarang-hbo-go-televisi-hbo-latino-lainnya-teks-logo.png" group-title="HBO INDO", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0Z UhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21z ZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Signature HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af /HBO_Signature_Asia.png" group-title="HBO INDO", HBO Signature - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0Z UhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9 "}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d /d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO INDO", Keluarga HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0Z UhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9 "}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc /HBOHits-ASIA.png" group-title="HBO INDO", HBO Hits - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANSV
+https://filmovie.github.io/by/transtv.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRANS7
+https://filmovie.github.io/by/trans7.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DENS TV",RCTI
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MOJI SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MOJI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVONE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVONE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",METRO TV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",METRO TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CELESTIAL MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CELESTIAL MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ENTERTAINMENT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ENTERTAINMENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NHK WORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NHK WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ACTION SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ROCK ACTION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",K+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",K+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BNTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BNTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MAGNA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MAGNA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KARTUN SIS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KARTUN SIS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCTV 4 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCTV 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",PHOENIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",PHOENIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KOMPAS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KOMPAS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TBN ASIA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TBN ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SPORT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCM SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCM HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Thrill SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Thrill HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MEKKAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MEKKAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADINAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADINAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTP SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTP HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ALJAZEERA ARAB SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ALJAZEERA ARAB HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV5 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CGTN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CGTN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV 5 Style SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV 5 Style HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CINEMAWORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CINEMAWORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY KIDZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY CINEMA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS PLAY HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY CINEMA ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY FAMILY CHANNEL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DAAI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS SHOWBIZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS FOOD CHANNEL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS LEARNING HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS LIVE EVENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Commerce HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Korean HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS life Style HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ELSHINTA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAKTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CREMA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",STINGRAY HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Deluxe Lounge HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Dance TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Motorvision HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MotoR Racing HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HORIZON SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DW-TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",W-SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",France 24 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FREEDOM HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TRT WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI World (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w472172163_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1325163276_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DETIK TV
+https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2023/11/19/49d7019754274b5a9eb6536d3e79bdb8.smil/chunklist_w784631946_b1628001.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",LOTUS
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO
+http://208.115.225.174:14136
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO 2
+http://208.115.225.174:14140
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Family
+http://208.115.225.174:14144
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Signature
+http://208.115.225.174:14160
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Hits
+https://astrompd.kalinggap3workersdev.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primar
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Plus
+http://208.115.225.174:14152
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Extrem
+http://208.115.225.174:14165
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Tv
+http://208.115.225.174:14132
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Galaxy
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264773
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Galaxy Premium
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264774
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mce
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",XINGKONG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV9 NUSANTARA
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADU TV NUSANTARA
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAWA POS TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1534412918.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Ind
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wb Tv
+http://208.115.225.174:14132
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Paramounth
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mbc
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WARNER TV
+https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="PARAMOUNT HD - [Channel 441].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+
+#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="Premium Movies",Hits
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+
+#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium - [Channel 12].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Galaxy%20Premium.png",Galaxy
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id= "KIX - [Channel 161].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Celestial%20Movies.png" group-title="Premium Movies",Celestial Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/CCM.png" group-title="Premium Movies",Celestial Classic
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id= "CinemaWorld HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="SGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/800px-Gem_TV_logo_2020.png" group-title="Premium Movies",Sony GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+
+#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Premium Movies",MyCinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Premium Movies",MyCinema Asia
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Premium Movies",My Family
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi.png" group-title="Premium Movies",Cinemachi HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Kids.png" group-title="Premium Movies",Cinemachi Kids HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CINEMACHI ACTION HD - [Channel 402].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Action.png" group-title="Premium Movies",Cinemachi Action HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CINEMACHI MAX HD - [Channel 404].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20MAX.png" group-title="Premium Movies",Cinemachi Max HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Xtra.png" group-title="Premium Movies",Cinemachi Xtra HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="Premium Movies",Indonesia Movie Channel
+http://103.113.116.150:25461/mtm1/12345/21
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.indihometv.com/tvposter/flik.png" group-title="Premium Movies",Flik
+http://103.113.116.150:25461/mtm1/12345/22
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies",Bioskop Indonesia
+http://103.113.116.150:25461/mtm1/12345/23
+
+#EXTINF: -1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Citra%20Bioskop.png" group-title="Premium Movies",Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/FMN.png" group-title="Premium Movies",FMN (Telenovela)
+https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Premium Movies",Sony Max
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Premium Movies",Sony TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Premium Movies",ETV BIOSKOP 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Premium Movies",ETV BIOSKOP 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Premium Movies",ETV BIOSKOP 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Premium Movies",ETV BIOSKOP 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="Kids",Disney Junior
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://image.pngaaa.com/583/3120583-middle.png" tvg-name="" group-title="Kids",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
+http://103.113.116.150:25461/mtm1/12345/25
+
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids",MyKids
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",ZooMoo
+https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+#EXTINF:-1 tvg-id="Horee" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png" group-title="Kids",Horee
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids",Kids TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="Kids",Cbeebies
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/7f3aed08/01ac_r32.jpg" group-title="Kids",Animax
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
+http://103.113.116.150:25461/mtm1/12345/140
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
+http://103.113.116.150:25461/mtm1/12345/141
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="Sports",SpoTV
+http://103.113.116.150:25461/mtm1/12345/142
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="Sports",SpoTV 2
+http://103.113.116.150:25461/mtm1/12345/143
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="Sports",SpoTV 2
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
+#https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
+https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png" group-title="Sports",Eurosports
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.clipartmax.com/png/middle/439-4397957_download-now-motorvision-tv.png",MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png",WWE
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BeinSport 1
+http://103.113.116.150:25461/mtm1/12345/75
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BeinSport 3
+http://103.113.116.150:25461/mtm1/12345/76
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BeinSport 1
+http://103.113.116.150:25461/mtm1/12345/147
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BeinSport 3
+http://103.113.116.150:25461/mtm1/12345/148
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
+http://103.113.116.150:25461/mtm1/12345/47
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Super Sport 4
+http://103.113.116.150:25461/mtm1/12345/50
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/672/288/png-clipart-ufc-logo-ufc-1-the-beginning-ufc-197-jones-vs-saint-preux-mixed-martial-arts-the-joe-rogan-experience-logo-mma-event-angle-emblem-thumbnail.png",UFC TV
+http://103.113.116.150:25461/mtm1/12345/51
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 1
+http://103.113.116.150:25461/mtm1/12345/52
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 2
+http://103.113.116.150:25461/mtm1/12345/53
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 3
+http://103.113.116.150:25461/mtm1/12345/54
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/uuwd4z2n/fa_cup_logo.png",SuperSport Emirates FA CUP
+http://103.113.116.150:25461/mtm1/12345/55
+http://103.113.116.150:25461/mtm1/12345/63
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",SuperSport Laliga
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/Motorsportpng_-1024x275.png",SuperSport Motorsport
+http://103.113.116.150:25461/mtm1/12345/58
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png",SuperSport Tennis
+http://103.113.116.150:25461/mtm1/12345/59
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png",SuperSport Action
+http://103.113.116.150:25461/mtm1/12345/60
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SuperSport Cricket
+http://103.113.116.150:25461/mtm1/12345/61
+http://103.113.116.150:25461/mtm1/12345/62
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
+http://103.113.116.150:25461/mtm1/12345/80
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 2
+http://103.113.116.150:25461/mtm1/12345/81
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 3
+http://103.113.116.150:25461/mtm1/12345/82
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 4
+http://103.113.116.150:25461/mtm1/12345/82
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png",SkySport Premiere League
+http://103.113.116.150:25461/mtm1/12345/128
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SkySport Main Event
+http://103.113.116.150:25461/mtm1/12345/129
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",SkySport F1
+http://103.113.116.150:25461/mtm1/12345/130
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png",SkySport Cricket
+http://103.113.116.150:25461/mtm1/12345/131
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*3VpvBBTGB77-qqhe5Ki_AQ.png",SkySport NFL
+http://103.113.116.150:25461/mtm1/12345/132
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png",SkySport Arena
+http://103.113.116.150:25461/mtm1/12345/162
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png",SkySport Golf
+http://103.113.116.150:25461/mtm1/12345/132
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premiere 1
+http://103.113.116.150:25461/mtm1/12345/149
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premiere 2
+http://103.113.116.150:25461/mtm1/12345/150
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",Hub Premiere 3
+http://103.113.116.150:25461/mtm1/12345/152
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.liblogo.com/img-logo/fs1293fd53-fs2-logo-fox-sports-saturday-at-the-races-returns-feb-2-with-derby-preps.png",FOX Sport 2
+http://103.113.116.150:25461/mtm1/12345/153
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/f6/Eurosport_%281994-2001%29.png",Eurosport 1
+http://103.113.116.150:25461/mtm1/12345/154
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png",Eurosport 2
+http://103.113.116.150:25461/mtm1/12345/155
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
+http://103.113.116.150:25461/mtm1/12345/163
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
+http://103.113.116.150:25461/mtm1/12345/164
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
+http://103.113.116.150:25461/mtm1/12345/165
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
+http://103.113.116.150:25461/mtm1/12345/166
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
+http://103.113.116.150:25461/mtm1/12345/167
